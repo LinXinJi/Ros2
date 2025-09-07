@@ -1,0 +1,25 @@
+[0.049s] Invoking command in '/home/air/桌面/ROS2无人车/build/helloworld_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/air/桌面/ROS2无人车/build/helloworld_cpp -- -j16 -l16
+[0.264s] [ 50%] [32mBuilding CXX object CMakeFiles/helloworld-node.dir/src/helloworld-node.cpp.o[0m
+[7.753s] [100%] [32m[1mLinking CXX executable helloworld-node[0m
+[8.270s] [100%] Built target helloworld-node
+[8.315s] Invoked command in '/home/air/桌面/ROS2无人车/build/helloworld_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/air/桌面/ROS2无人车/build/helloworld_cpp -- -j16 -l16
+[8.352s] Invoking command in '/home/air/桌面/ROS2无人车/build/helloworld_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/air/桌面/ROS2无人车/build/helloworld_cpp
+[8.381s] -- Install configuration: ""
+[8.382s] -- Installing: /home/air/桌面/ROS2无人车/install/helloworld_cpp/lib/helloworld_cpp/helloworld-node
+[8.385s] -- Set non-toolchain portion of runtime path of "/home/air/桌面/ROS2无人车/install/helloworld_cpp/lib/helloworld_cpp/helloworld-node" to ""
+[8.385s] -- Up-to-date: /home/air/桌面/ROS2无人车/install/helloworld_cpp/share/ament_index/resource_index/package_run_dependencies/helloworld_cpp
+[8.385s] -- Up-to-date: /home/air/桌面/ROS2无人车/install/helloworld_cpp/share/ament_index/resource_index/parent_prefix_path/helloworld_cpp
+[8.385s] -- Up-to-date: /home/air/桌面/ROS2无人车/install/helloworld_cpp/share/helloworld_cpp/environment/ament_prefix_path.sh
+[8.386s] -- Up-to-date: /home/air/桌面/ROS2无人车/install/helloworld_cpp/share/helloworld_cpp/environment/ament_prefix_path.dsv
+[8.386s] -- Up-to-date: /home/air/桌面/ROS2无人车/install/helloworld_cpp/share/helloworld_cpp/environment/path.sh
+[8.387s] -- Up-to-date: /home/air/桌面/ROS2无人车/install/helloworld_cpp/share/helloworld_cpp/environment/path.dsv
+[8.387s] -- Up-to-date: /home/air/桌面/ROS2无人车/install/helloworld_cpp/share/helloworld_cpp/local_setup.bash
+[8.387s] -- Up-to-date: /home/air/桌面/ROS2无人车/install/helloworld_cpp/share/helloworld_cpp/local_setup.sh
+[8.387s] -- Up-to-date: /home/air/桌面/ROS2无人车/install/helloworld_cpp/share/helloworld_cpp/local_setup.zsh
+[8.388s] -- Up-to-date: /home/air/桌面/ROS2无人车/install/helloworld_cpp/share/helloworld_cpp/local_setup.dsv
+[8.388s] -- Installing: /home/air/桌面/ROS2无人车/install/helloworld_cpp/share/helloworld_cpp/package.dsv
+[8.392s] -- Up-to-date: /home/air/桌面/ROS2无人车/install/helloworld_cpp/share/ament_index/resource_index/packages/helloworld_cpp
+[8.392s] -- Up-to-date: /home/air/桌面/ROS2无人车/install/helloworld_cpp/share/helloworld_cpp/cmake/helloworld_cppConfig.cmake
+[8.393s] -- Up-to-date: /home/air/桌面/ROS2无人车/install/helloworld_cpp/share/helloworld_cpp/cmake/helloworld_cppConfig-version.cmake
+[8.393s] -- Up-to-date: /home/air/桌面/ROS2无人车/install/helloworld_cpp/share/helloworld_cpp/package.xml
+[8.398s] Invoked command in '/home/air/桌面/ROS2无人车/build/helloworld_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/air/桌面/ROS2无人车/build/helloworld_cpp

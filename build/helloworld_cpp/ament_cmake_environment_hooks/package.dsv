@@ -1,0 +1,4 @@
+source;share/helloworld_cpp/local_setup.bash
+source;share/helloworld_cpp/local_setup.dsv
+source;share/helloworld_cpp/local_setup.sh
+source;share/helloworld_cpp/local_setup.zsh

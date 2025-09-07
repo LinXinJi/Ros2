@@ -1,0 +1,2 @@
+Invoking command in '/home/air/桌面/ROS2无人车/build/helloworld_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/air/桌面/ROS2无人车/build/helloworld_cpp -- -j16 -l16
+Invoked command in '/home/air/桌面/ROS2无人车/build/helloworld_cpp' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/air/桌面/ROS2无人车/build/helloworld_cpp -- -j16 -l16

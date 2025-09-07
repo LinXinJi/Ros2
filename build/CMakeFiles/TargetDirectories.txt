@@ -1,0 +1,10 @@
+/home/air/桌面/ROS2无人车/build/CMakeFiles/uninstall.dir
+/home/air/桌面/ROS2无人车/build/CMakeFiles/helloworld_cpp_uninstall.dir
+/home/air/桌面/ROS2无人车/build/CMakeFiles/helloworld-node.dir
+/home/air/桌面/ROS2无人车/build/CMakeFiles/test.dir
+/home/air/桌面/ROS2无人车/build/CMakeFiles/edit_cache.dir
+/home/air/桌面/ROS2无人车/build/CMakeFiles/rebuild_cache.dir
+/home/air/桌面/ROS2无人车/build/CMakeFiles/list_install_components.dir
+/home/air/桌面/ROS2无人车/build/CMakeFiles/install.dir
+/home/air/桌面/ROS2无人车/build/CMakeFiles/install/local.dir
+/home/air/桌面/ROS2无人车/build/CMakeFiles/install/strip.dir
